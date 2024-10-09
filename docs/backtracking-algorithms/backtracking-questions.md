@@ -107,13 +107,7 @@ int main() {
 
 **Definition:** A combination is a selection of objects without considering the order. The order of selection does not matter in combinations.
 
-## Formula
 
-The number of combinations of `n` distinct objects taken `r` at a time is given by the formula:
-
-\[
-C(n, r) = \frac{n!}{r!(n - r)!}
-\]
 
 ## Example
 
